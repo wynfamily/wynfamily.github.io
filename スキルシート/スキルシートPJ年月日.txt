@@ -1,0 +1,46 @@
+名前：呉雅楠（ゴガナン）
+年齢：43
+主なスキル：Windows11Pro/Linux/Apache/Nginx/Shell/PHP/Python/Golang/C#/Java/JavaScript/SQL/Redis/CSV/Markdown/Html/CSS/Bootstrap/jQuery/Nagios/Munin/Jenkins/JMeter/Unity/暗号化技術/オークション/中国語
+使用経験のあるツール：VSCode、Eclipse、Chatwork、Slack、GitLab、TortoiseGit、TortoiseSVN、Redmine、MantisBT、PukiWiki、VirtualBox、Docker、MySQL Workbench、WinMerge、WinSCP、FileZilla、Tera Term、RLogin、Office、Notepad++、サクラエディタなど
+過去開発に携わったタイトル：『ぷよぷよ!!タッチ』『ぷよぷよ!!クエスト』『ラストイデア』『実況パワフルプロ野球』『ちっぴーとのっぽー』
+
+開発タイトル
+2014/12/01　～　2016/09/30『ぷよぷよ!!タッチ』
+2016/10/01　～　2019/01/08『ぷよぷよ!!クエスト』
+2019/01/09　～　2020/04/15『ラストイデア』
+2020/04/16　～　2020/06/22『unity3Dで座標情報WebSocket同期（10人）社内リアルタイム通信PJ』
+2020/06/23　～　2021/10/10『ぷよぷよ!!クエスト』『資料を整理して、pythonでmarkdownからSQLなどへ変換ツール　社内PJ』
+2021/10/11　～　2023/01/31『実況パワフルプロ野球』
+2023/02/01　～　2025/--/--『ぷよぷよ!!クエスト』
+
+携わったタイトル
+2023/05/09　～　2023/07/05『ちっぴーとのっぽー』中国語声優、　BitSummitイベントスタッフとして、３日間参加
+
+
+主なスキル
+OS
+Windows11Pro/Linux
+
+HTTP Server
+Apache/Nginx
+
+Lang
+Shell/PHP/Python/Golang/C#/Java/JavaScript
+
+DB
+SQL/Redis/CSV/Markdown
+
+UI
+Html/CSS/Bootstrap/jQuery
+
+Ops
+Nagios/Munin/Jenkins/JMeter
+
+Dev
+Unity
+
+特別スキル
+暗号化技術/オークション
+
+多言語
+中国語

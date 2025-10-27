@@ -1,0 +1,7 @@
+名前：呉雅楠（ゴガナン）
+年齢：43
+主なスキル：Windows11Pro/Linux/Apache/Nginx/Shell/PHP/Python/Golang/C#/Java/JavaScript/MySQL/Redis/CSV/Markdown/Html/CSS/Bootstrap/jQuery/Nagios/Munin/Jenkins/JMeter/Unity/暗号化技術/オークション/中国語
+使用経験のあるツール：VSCode、Eclipse、Chatwork、Slack、GitLab、TortoiseGit、TortoiseSVN、Redmine、MantisBT、PukiWiki、VirtualBox、Docker、MySQL Workbench、WinMerge、WinSCP、FileZilla、Tera Term、RLogin、Office、Notepad++、サクラエディタなど
+過去開発に携わったタイトル：『ぷよぷよ!!タッチ』『ぷよぷよ!!クエスト』『ラストイデア』『実況パワフルプロ野球』『ちっぴーとのっぽー』
+
+
